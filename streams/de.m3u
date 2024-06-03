@@ -80,7 +80,7 @@ https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist
 #EXTINF:-1 tvg-id="DWArabic.de",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de",DW English (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+https://ythls.armelin.one/channel/UCknLrEdhRCp1aegoMqRaCZg.m3u8
 #EXTINF:-1 tvg-id="DWEspanol.de",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="EchtJetztTV.de",EchtJetzt TV (720p)
